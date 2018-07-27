@@ -1456,3 +1456,18 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+
+/*------- Bruce's New Classes -------*/
+
+.portfolioLink {
+  color: rebeccapurple;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px !important;
+}
+
+.footer .footer-logo {
+    width: 100px !important;
+}
